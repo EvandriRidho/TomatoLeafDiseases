@@ -1,4 +1,4 @@
-# 🍅 AI Deteksi Daun Tomat (Private)
+# 🍅 AI Deteksi Daun Tomat
 
 Aplikasi berbasis web (_Machine Learning_) untuk mendeteksi klasifikasi penyakit pada daun tomat. Repo ini adalah **catatan dan referensi pribadi** untuk menguasai alur _end-to-end_ (mulai dari _training_ sampai _deployment_) sebelum mengeksekusi project skripsi yang sesungguhnya.
 
