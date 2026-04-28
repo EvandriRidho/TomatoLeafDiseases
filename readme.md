@@ -17,11 +17,11 @@ Struktur standar yang harus dipertahankan untuk _project_ ML:
 ```text
 TomatoLeafDiseases/
 │
-├── env/                         # 🚫 Folder Virtual Environment (HARAM MASUK GITHUB)
+├── env/                         # 🚫 Folder Virtual Environment
 ├── model/                       # Folder khusus penyimpanan model
-│   └── model_tomat_finetuned.h5 # Otak AI (Wajib ada!)
+│   └── model_tomat_finetuned.h5 # Otak AI
 ├── app.py                       # Main script / Kode UI Streamlit
-├── requirements.txt             # Daftar library (Kunci utama untuk deploy Cloud)
-├── .gitignore                   # Penjaga gerbang file raksasa (env, pycache)
-└── README.md                    # Cheat sheet ini
+├── requirements.txt             # Daftar library 
+├── .gitignore                   # Penjaga gerbang file raksasa 
+└── README.md                    # Readme
 ```
